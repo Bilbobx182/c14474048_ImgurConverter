@@ -1,0 +1,5 @@
+Initial Release	: Basic code for converting subreddit links that aren't imgur to imgur. Prints to console.
+Version 0.0.1	: XXXXX
+Version 0.0.2	: XXXXX
+Version 0.0.3	: XXXXX
+Version 0.0.4	: XXXXX
